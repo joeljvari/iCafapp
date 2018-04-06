@@ -1,2 +1,4 @@
-# iCafapp1
-It is a demo app.
+## iCafapp
+_Demo project_
+
+This app is a sample project.
